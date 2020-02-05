@@ -1,61 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://mohammad-nahid-hossain.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/project/breakfast-cereal-dataset/</loc>
+    <lastmod>2020-02-05T12:48:16+06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mohammad-nahid-hossain.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/</loc>
+    <lastmod>2020-02-05T12:48:16+06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mohammad-nahid-hossain.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+06:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/project/</loc>
+    <lastmod>2020-02-05T12:48:16+06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mohammad-nahid-hossain.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/project/tic-tac-toe/</loc>
+    <lastmod>2020-02-05T12:47:41+06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mohammad-nahid-hossain.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/authors/</loc>
+    <lastmod>2020-02-05T12:46:50+06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mohammad-nahid-hossain.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/authors/kaniz-fatema/</loc>
+    <lastmod>2020-02-05T12:46:50+06:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://mohammad-nahid-hossain.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/project/landslide-prediction/</loc>
+    <lastmod>2020-02-05T12:46:50+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/authors/md-fahim-sikder/</loc>
+    <lastmod>2020-02-05T12:46:50+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/authors/mohammad-nahid-hossain/</loc>
+    <lastmod>2020-02-05T12:46:50+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mohammad-nahid-hossain.github.io/tags/</loc>
+  </url>
   
 </urlset>

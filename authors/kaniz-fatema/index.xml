@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaniz Fatema | Mohammad Nahid Hossain</title>
+    <link>https://mohammad-nahid-hossain.github.io/authors/kaniz-fatema/</link>
+      <atom:link href="https://mohammad-nahid-hossain.github.io/authors/kaniz-fatema/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaniz Fatema</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 12:46:50 +0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Kaniz Fatema</title>
+      <link>https://mohammad-nahid-hossain.github.io/authors/kaniz-fatema/</link>
+    </image>
+    
+    <item>
+      <title>Landslide Prediction</title>
+      <link>https://mohammad-nahid-hossain.github.io/project/landslide-prediction/</link>
+      <pubDate>Wed, 05 Feb 2020 12:46:50 +0600</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/project/landslide-prediction/</guid>
+      <description>&lt;p&gt;This is a group work. Based on google data we are trying to make a model using machine learning algorithm for predicting which zone are highly risky as landslide zone and in which range in time landslide may occur.(running research)*&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

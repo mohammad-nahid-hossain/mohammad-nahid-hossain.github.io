@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Mohammad Nahid Hossain</title>
+    <link>https://mohammad-nahid-hossain.github.io/authors/</link>
+      <atom:link href="https://mohammad-nahid-hossain.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 12:46:50 +0600</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>https://mohammad-nahid-hossain.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Kaniz Fatema</title>
+      <link>https://mohammad-nahid-hossain.github.io/authors/kaniz-fatema/</link>
+      <pubDate>Wed, 05 Feb 2020 12:46:50 +0600</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/authors/kaniz-fatema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Md Fahim Sikder</title>
+      <link>https://mohammad-nahid-hossain.github.io/authors/md-fahim-sikder/</link>
+      <pubDate>Wed, 05 Feb 2020 12:46:50 +0600</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/authors/md-fahim-sikder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Nahid Hossain</title>
+      <link>https://mohammad-nahid-hossain.github.io/authors/mohammad-nahid-hossain/</link>
+      <pubDate>Wed, 05 Feb 2020 12:46:50 +0600</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/authors/mohammad-nahid-hossain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mohammad-nahid-hossain.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Mohammad Nahid Hossain is Research Assistant at Kwangwoon University, Seoul, South Korea. He is also Lecturer (on study leave) in Computer Science and Engineering department at Institute of Science Trade &amp;amp; Technology (ISTT). His research interests include Data Science, Machine Learning and Deep Learning.&lt;/p&gt;
+&lt;p&gt;Mohammad Nahid Hossain was born in Munshiganj, Bangladesh in 1995. He passed S.S.C from Badda Alatunnessa Higher Secondary School, Dhaka in 2010 H.S.C from Milestone College, Dhaka in 2012. Nahid received the B.Sc (Engineering) degree in Computer Science and Engineering from American International University-Bangladesh (AIUB), Bangladesh in 2017. He is currently pursuing his M.Sc degree in Electronic Engineering and Information at Kwangwoon University, Seoul, South Korea.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
