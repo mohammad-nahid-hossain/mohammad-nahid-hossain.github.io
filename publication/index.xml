@@ -5,12 +5,52 @@
     <link>https://mohammad-nahid-hossain.github.io/publication/</link>
       <atom:link href="https://mohammad-nahid-hossain.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Mohammad Nahid Hossain</copyright><lastBuildDate>Sat, 17 Jul 2021 22:36:16 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://mohammad-nahid-hossain.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://mohammad-nahid-hossain.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>An Efficient Approach Applying a Deep Learning Algorithm to Chest X-ray Images and Analyzing Patient Symptoms to Predict COVID-19-Infected Patients</title>
+      <link>https://mohammad-nahid-hossain.github.io/publication/analyzing-patient-symptoms/</link>
+      <pubDate>Sat, 17 Jul 2021 22:36:16 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/publication/analyzing-patient-symptoms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Machine Learning Approach to Detect Human Depression by Monitoring Physical and Social Media Activity utilizing a Hybrid Data Acquisition Method,</title>
+      <link>https://mohammad-nahid-hossain.github.io/publication/detect-human-depression/</link>
+      <pubDate>Sat, 17 Jul 2021 22:35:54 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/publication/detect-human-depression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting cognitive impairment status using keystroke patterns and physical activity data among the older adults: A machine learning approach</title>
+      <link>https://mohammad-nahid-hossain.github.io/publication/cognitive-impairments/</link>
+      <pubDate>Sat, 17 Jul 2021 22:35:29 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/publication/cognitive-impairments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Routing Protocol for Cancer Cell Detection Using Wireless Nano-sensors Network (WNSN)</title>
+      <link>https://mohammad-nahid-hossain.github.io/publication/uddin-2021-routing/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/publication/uddin-2021-routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ANN-Based Approach to Identify Smart Appliances for Ambient Assisted Living (AAL) in the Smart Space</title>
+      <link>https://mohammad-nahid-hossain.github.io/publication/uddin-2021-ann/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/publication/uddin-2021-ann/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -5,35 +5,47 @@
     <link>https://mohammad-nahid-hossain.github.io/project/</link>
       <atom:link href="https://mohammad-nahid-hossain.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Feb 2020 12:48:16 +0600</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Mohammad Nahid Hossain</copyright><lastBuildDate>Sat, 17 Jul 2021 22:13:06 +0200</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://mohammad-nahid-hossain.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://mohammad-nahid-hossain.github.io/project/</link>
     </image>
     
     <item>
-      <title>Breakfast Cereal Dataset</title>
-      <link>https://mohammad-nahid-hossain.github.io/project/breakfast-cereal-dataset/</link>
-      <pubDate>Wed, 05 Feb 2020 12:48:16 +0600</pubDate>
-      <guid>https://mohammad-nahid-hossain.github.io/project/breakfast-cereal-dataset/</guid>
-      <description></description>
+      <title>Development of AI-based Smart Housing Platform and Service Technology</title>
+      <link>https://mohammad-nahid-hossain.github.io/project/ai-based-smart-housing/</link>
+      <pubDate>Sat, 17 Jul 2021 22:13:06 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/project/ai-based-smart-housing/</guid>
+      <description>&lt;p&gt;Korea Electronics Association, cooperation PowerVoice, Korea, Republic of.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Tic Tac Toe Game Solutions</title>
-      <link>https://mohammad-nahid-hossain.github.io/project/tic-tac-toe/</link>
-      <pubDate>Wed, 05 Feb 2020 12:47:41 +0600</pubDate>
-      <guid>https://mohammad-nahid-hossain.github.io/project/tic-tac-toe/</guid>
-      <description></description>
+      <title>IoT Appliance Big Data Utilization Support Project</title>
+      <link>https://mohammad-nahid-hossain.github.io/project/iot-appliance-big-data/</link>
+      <pubDate>Sat, 17 Jul 2021 22:12:47 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/project/iot-appliance-big-data/</guid>
+      <description>&lt;p&gt;Korea Electronics Association, Korea Electronics Association, Korea, Republic of.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Landslide Prediction</title>
-      <link>https://mohammad-nahid-hossain.github.io/project/landslide-prediction/</link>
-      <pubDate>Wed, 05 Feb 2020 12:46:50 +0600</pubDate>
-      <guid>https://mohammad-nahid-hossain.github.io/project/landslide-prediction/</guid>
-      <description>&lt;p&gt;This is a group work. Based on google data we are trying to make a model using machine learning algorithm for predicting which zone are highly risky as landslide zone and in which range in time landslide may occur.(running research)*&lt;/p&gt;
+      <title>Development of Transparent Apartment Management Service Based on Blockchain Technology</title>
+      <link>https://mohammad-nahid-hossain.github.io/project/transparent-apartment/</link>
+      <pubDate>Sat, 17 Jul 2021 22:12:22 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/project/transparent-apartment/</guid>
+      <description>&lt;p&gt;Korea Evaluation Institute of Industrial Technology, cooperation KSign, Korea, Republic of.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Entry System</title>
+      <link>https://mohammad-nahid-hossain.github.io/project/digital-entry-system/</link>
+      <pubDate>Thu, 17 Dec 2020 22:13:20 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/project/digital-entry-system/</guid>
+      <description>&lt;p&gt;Korean Company, Korea, Republic of.&lt;/p&gt;
+&lt;p&gt;An android application project made for a Korean company for a digital entry system. User information will be verified and stored by two servers respectively.&lt;/p&gt;
 </description>
     </item>
     

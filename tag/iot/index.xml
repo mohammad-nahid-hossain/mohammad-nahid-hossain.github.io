@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT | Mohammad Nahid Hossain</title>
+    <link>https://mohammad-nahid-hossain.github.io/tag/iot/</link>
+      <atom:link href="https://mohammad-nahid-hossain.github.io/tag/iot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©Mohammad Nahid Hossain</copyright><lastBuildDate>Sat, 17 Jul 2021 22:13:06 +0200</lastBuildDate>
+    <image>
+      <url>https://mohammad-nahid-hossain.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>IoT</title>
+      <link>https://mohammad-nahid-hossain.github.io/tag/iot/</link>
+    </image>
+    
+    <item>
+      <title>Development of AI-based Smart Housing Platform and Service Technology</title>
+      <link>https://mohammad-nahid-hossain.github.io/project/ai-based-smart-housing/</link>
+      <pubDate>Sat, 17 Jul 2021 22:13:06 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/project/ai-based-smart-housing/</guid>
+      <description>&lt;p&gt;Korea Electronics Association, cooperation PowerVoice, Korea, Republic of.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IoT Appliance Big Data Utilization Support Project</title>
+      <link>https://mohammad-nahid-hossain.github.io/project/iot-appliance-big-data/</link>
+      <pubDate>Sat, 17 Jul 2021 22:12:47 +0200</pubDate>
+      <guid>https://mohammad-nahid-hossain.github.io/project/iot-appliance-big-data/</guid>
+      <description>&lt;p&gt;Korea Electronics Association, Korea Electronics Association, Korea, Republic of.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
